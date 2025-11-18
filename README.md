@@ -1,16 +1,3 @@
-Chào bạn, đây là file **README.md** hoàn chỉnh và chuyên nghiệp cho dự án của bạn.
-
-Tôi đã thiết kế nó bao gồm:
-
-1.  **Giới thiệu tính năng.**
-2.  **Hướng dẫn cài đặt môi trường ảo (.venv)** chi tiết cho cả Mac và Windows.
-3.  **Hướng dẫn cấu hình** (vì code đang dùng đường dẫn tuyệt đối).
-4.  **Demo hình ảnh** (Tôi để chỗ trống để bạn chèn ảnh chụp màn hình file `review_report.html` vào).
-
-Bạn hãy tạo một file tên là `README.md` trong cùng thư mục dự án và dán nội dung dưới đây vào nhé:
-
------
-
 ````markdown
 # 🧹 AI Dataset Deduplication Tool
 
